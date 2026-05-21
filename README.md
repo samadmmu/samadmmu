@@ -1,24 +1,61 @@
-## Hi there 👋
+# Hi, I'm Abdul Samad 👋
 
-I am a Master's Research student working in the area of Wireless AI, Deep Reinforcement Learning, and Mobile Edge Computing. My research focuses on intelligent task offloading, semantic communication, digital twin-assisted MEC, and DRL-based resource optimization for beyond-5G and 6G wireless networks.
+🎓 **Master's Research Student** | 🤖 **Wireless AI & DRL Researcher** | 📡 **Mobile Edge Computing Enthusiast**
 
-## Research Interests
+I am working on **Deep Reinforcement Learning (DRL)**, **Mobile Edge Computing (MEC)**, **semantic communication**, and **intelligent task offloading** for beyond-5G and 6G wireless networks. My research focuses on building energy-efficient and latency-aware edge intelligence systems using advanced AI-based optimization methods.
 
-- Deep Reinforcement Learning for MEC task offloading
-- Semantic communication and split inference
-- Digital twin-assisted wireless networks
-- OFDMA/NOMA-based resource allocation
-- Energy-efficient edge intelligence
-- Python-based simulation and performance evaluation
-  
-## Technical Skills
+---
 
-- Python
-- PyTorch
-- Reinforcement Learning
-- Mobile Edge Computing
-- Wireless Communication
+## 🔬 Research Interests
 
-## Contact
+- 📡 Mobile Edge Computing and task offloading  
+- 🤖 Deep Reinforcement Learning for wireless networks  
+- 🧠 Semantic communication and split inference  
+- 🌐 Digital twin-assisted edge networks  
+- 📶 OFDMA/NOMA-based resource allocation  
+- ⚡ Energy-efficient edge intelligence  
+- 🚗 V2X and next-generation wireless systems  
 
-Feel free to connect with me for research collaboration, AI/ML projects, or discussions related to wireless edge intelligence.
+---
+
+## 🛠️ Technical Skills
+
+- 🐍 Python  
+- 🔥 PyTorch  
+- 🤖 Deep Reinforcement Learning  
+- 📡 Wireless Communication  
+- 🧮 Simulation and performance evaluation  
+
+---
+
+## 🚀 Current Research Focus
+
+I am currently developing DRL-based semantic task offloading frameworks for MEC systems, where the objective is to jointly optimize:
+
+- 🧩 Semantic compression ratio  
+- ⚙️ Computation offloading decisions  
+- 📶 Wireless resource allocation  
+- ⚡ Energy consumption  
+- ⏱️ Latency constraints  
+
+The broader goal is to design intelligent and efficient edge computing solutions for future 6G wireless networks.
+
+---
+
+## 📌 What You Will Find Here
+
+This GitHub profile will include my work related to:
+
+- 📁 Research code  
+- 📊 Simulation results  
+- 🧪 DRL experiments  
+- 📄 Academic project implementations  
+- 🛠️ AI/ML and wireless communication projects  
+
+---
+
+## 📫 Connect With Me
+
+I am open to research discussions, collaborations, and academic projects related to **AI for wireless networks**, **MEC**, **semantic communication**, and **deep reinforcement learning**.
+
+---
